@@ -3,7 +3,7 @@
 #     for j in range(1, 10):
 #         print(i, "*", j, "=", i*j)
 #     print()
-
+ 
 
 # 2.  Salom, Dunyo!: Ekranga "Men Pythonni o'rganyapman" jumlasini tsikl orqali 20 marta chiqaring. (13 siklda chiqarmasn va 19 siklda toxtatsin)
 # for i in range (1,21):
